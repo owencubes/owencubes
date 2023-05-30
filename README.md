@@ -1,10 +1,6 @@
 # Hi there, I'm Owen 👋
 
-## I'm a Developer and Gamer!
-
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to solve rubiks cubes
-- 😀 Pronouns: he/him
+## Full stack developer!
 
 <br />
 
